@@ -1,0 +1,19 @@
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\bin\ApplicationInsights.config
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\bin\SCADA Core.dll.config
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\bin\SCADA Core.dll
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\bin\SCADA Core.pdb
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\bin\Microsoft.AI.Web.dll
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\bin\Microsoft.AI.Web.xml
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\obj\Debug\SCADACore.csprojResolveAssemblyReference.cache
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\obj\Debug\SCADA Core.dll
+C:\Users\Vule\SNUS\SCADA Core\SCADA Core\obj\Debug\SCADA Core.pdb

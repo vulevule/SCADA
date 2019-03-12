@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VarsSerialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tags />
+  <RTUs>
+    <RTU>
+      <rtuID>ANrtu1</rtuID>
+      <type>false</type>
+      <value>25.88</value>
+      <address>1</address>
+      <publicKey>&lt;RSAKeyValue&gt;&lt;Modulus&gt;sVoT9tcN3oc0D2A6OaRuw7wsEB4kxdtDNUjJ4hTEBiHz3Z5RTLhgO+9HFT1EZadHmwakMF5STthyohm4n7Ar6nT3ru4TMMtU6X13Gofl2jVfepWvyAAz/GAJ63+yfGu2UZVFkuzEFunlCPaPFm5lP+Id+ikKq/rjF9d59Ab/sDk=&lt;/Modulus&gt;&lt;Exponent&gt;AQAB&lt;/Exponent&gt;&lt;/RSAKeyValue&gt;</publicKey>
+    </RTU>
+    <RTU>
+      <rtuID>DIrtu2</rtuID>
+      <type>true</type>
+      <value>0</value>
+      <address>2</address>
+      <publicKey>&lt;RSAKeyValue&gt;&lt;Modulus&gt;sVoT9tcN3oc0D2A6OaRuw7wsEB4kxdtDNUjJ4hTEBiHz3Z5RTLhgO+9HFT1EZadHmwakMF5STthyohm4n7Ar6nT3ru4TMMtU6X13Gofl2jVfepWvyAAz/GAJ63+yfGu2UZVFkuzEFunlCPaPFm5lP+Id+ikKq/rjF9d59Ab/sDk=&lt;/Modulus&gt;&lt;Exponent&gt;AQAB&lt;/Exponent&gt;&lt;/RSAKeyValue&gt;</publicKey>
+    </RTU>
+    <RTU>
+      <rtuID>ANrtu2</rtuID>
+      <type>false</type>
+      <value>20.79</value>
+      <address>3</address>
+      <publicKey>&lt;RSAKeyValue&gt;&lt;Modulus&gt;sVoT9tcN3oc0D2A6OaRuw7wsEB4kxdtDNUjJ4hTEBiHz3Z5RTLhgO+9HFT1EZadHmwakMF5STthyohm4n7Ar6nT3ru4TMMtU6X13Gofl2jVfepWvyAAz/GAJ63+yfGu2UZVFkuzEFunlCPaPFm5lP+Id+ikKq/rjF9d59Ab/sDk=&lt;/Modulus&gt;&lt;Exponent&gt;AQAB&lt;/Exponent&gt;&lt;/RSAKeyValue&gt;</publicKey>
+    </RTU>
+  </RTUs>
+  <SimulationItems />
+</VarsSerialization>

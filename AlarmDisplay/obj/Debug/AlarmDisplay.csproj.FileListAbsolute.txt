@@ -1,0 +1,8 @@
+C:\Users\Vule\SNUS\SCADA Core\AlarmDisplay\bin\Debug\AlarmDisplay.exe.config
+C:\Users\Vule\SNUS\SCADA Core\AlarmDisplay\bin\Debug\AlarmDisplay.exe
+C:\Users\Vule\SNUS\SCADA Core\AlarmDisplay\bin\Debug\AlarmDisplay.pdb
+C:\Users\Vule\SNUS\SCADA Core\AlarmDisplay\obj\Debug\AlarmDisplay.exe
+C:\Users\Vule\SNUS\SCADA Core\AlarmDisplay\obj\Debug\AlarmDisplay.pdb
+E:\Fakultet\SNUS\SCADA Core\AlarmDisplay\bin\Debug\AlarmDisplay.exe.config
+E:\Fakultet\SNUS\SCADA Core\AlarmDisplay\obj\Debug\AlarmDisplay.exe
+E:\Fakultet\SNUS\SCADA Core\AlarmDisplay\obj\Debug\AlarmDisplay.pdb

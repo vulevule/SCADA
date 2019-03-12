@@ -1,0 +1,8 @@
+C:\Users\Vule\SNUS\SCADA Core\RealTimeUnit\bin\Debug\RealTimeUnit.exe.config
+C:\Users\Vule\SNUS\SCADA Core\RealTimeUnit\bin\Debug\RealTimeUnit.exe
+C:\Users\Vule\SNUS\SCADA Core\RealTimeUnit\bin\Debug\RealTimeUnit.pdb
+C:\Users\Vule\SNUS\SCADA Core\RealTimeUnit\obj\Debug\RealTimeUnit.exe
+C:\Users\Vule\SNUS\SCADA Core\RealTimeUnit\obj\Debug\RealTimeUnit.pdb
+E:\Fakultet\SNUS\SCADA Core\RealTimeUnit\bin\Debug\RealTimeUnit.exe.config
+E:\Fakultet\SNUS\SCADA Core\RealTimeUnit\obj\Debug\RealTimeUnit.exe
+E:\Fakultet\SNUS\SCADA Core\RealTimeUnit\obj\Debug\RealTimeUnit.pdb

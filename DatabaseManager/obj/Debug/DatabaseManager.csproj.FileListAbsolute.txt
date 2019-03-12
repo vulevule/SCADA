@@ -1,0 +1,8 @@
+C:\Users\Vule\SNUS\SCADA Core\DatabaseManager\bin\Debug\DatabaseManager.exe.config
+C:\Users\Vule\SNUS\SCADA Core\DatabaseManager\bin\Debug\DatabaseManager.exe
+C:\Users\Vule\SNUS\SCADA Core\DatabaseManager\bin\Debug\DatabaseManager.pdb
+C:\Users\Vule\SNUS\SCADA Core\DatabaseManager\obj\Debug\DatabaseManager.exe
+C:\Users\Vule\SNUS\SCADA Core\DatabaseManager\obj\Debug\DatabaseManager.pdb
+E:\Fakultet\SNUS\SCADA Core\DatabaseManager\bin\Debug\DatabaseManager.exe.config
+E:\Fakultet\SNUS\SCADA Core\DatabaseManager\obj\Debug\DatabaseManager.exe
+E:\Fakultet\SNUS\SCADA Core\DatabaseManager\obj\Debug\DatabaseManager.pdb

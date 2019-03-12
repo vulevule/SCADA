@@ -1,0 +1,14 @@
+C:\Users\Vule\SNUS\SCADA Core\Trending\bin\Debug\Trending.exe.config
+C:\Users\Vule\SNUS\SCADA Core\Trending\bin\Debug\Trending.exe
+C:\Users\Vule\SNUS\SCADA Core\Trending\bin\Debug\Trending.pdb
+C:\Users\Vule\SNUS\SCADA Core\Trending\bin\Debug\MySql.Data.dll
+C:\Users\Vule\SNUS\SCADA Core\Trending\bin\Debug\MySql.Data.xml
+C:\Users\Vule\SNUS\SCADA Core\Trending\obj\Debug\Trending.csprojResolveAssemblyReference.cache
+C:\Users\Vule\SNUS\SCADA Core\Trending\obj\Debug\Trending.Form1.resources
+C:\Users\Vule\SNUS\SCADA Core\Trending\obj\Debug\Trending.Properties.Resources.resources
+C:\Users\Vule\SNUS\SCADA Core\Trending\obj\Debug\Trending.csproj.GenerateResource.Cache
+C:\Users\Vule\SNUS\SCADA Core\Trending\obj\Debug\Trending.exe
+C:\Users\Vule\SNUS\SCADA Core\Trending\obj\Debug\Trending.pdb
+E:\Fakultet\SNUS\SCADA Core\Trending\bin\Debug\Trending.exe.config
+E:\Fakultet\SNUS\SCADA Core\Trending\obj\Debug\Trending.exe
+E:\Fakultet\SNUS\SCADA Core\Trending\obj\Debug\Trending.pdb
